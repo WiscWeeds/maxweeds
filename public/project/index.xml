@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Maxwel Coura Oliveira</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Maxwel Coura Oliveira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Maxwel Coura Oliveira</copyright>
+    <lastBuildDate>Wed, 28 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Source Weed Science</title>
+      <link>/project/2018-weed-science-open-source/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/2018-weed-science-open-source/</guid>
+      <description>The advance of statistical software can make more comfortable for weed science practitioners (professor, technician, and student) to handle research data using programming languages. The idea of the Open Source Weed Science project is to have a repository in GitHub or create a website (working on that idea) with the typical data analysis of weed research.
+I first heard about Open Source Weed Science project as a graduate student in Nebraska.</description>
+    </item>
+    
+  </channel>
+</rss>

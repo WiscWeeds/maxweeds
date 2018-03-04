@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Maxwel Coura Oliveira</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Maxwel Coura Oliveira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Maxwel Coura Oliveira</copyright>
+    <lastBuildDate>Wed, 28 Feb 2018 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blogging: a new power of R-studio</title>
+      <link>/post/2018-first-post-blogdown/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/post/2018-first-post-blogdown/</guid>
+      <description>Back in 2007, I downloaded R for the first time during a statistical class in my BSc degree. However, I did not see much necessity of R and the interface was not friendly. At that time, I had no idea about the power of R and R-studio software. When I joined the University of Nebraska-Lincoln in 2014, I took statistics class that used SAS as standard software. With SAS, I liked using for ANOVA, but I found challenging to conduct quantitative data analysis and plotting regression curves.</description>
+    </item>
+    
+  </channel>
+</rss>

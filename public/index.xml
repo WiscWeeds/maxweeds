@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maxwel Coura Oliveira on Maxwel Coura Oliveira</title>
+    <link>/</link>
+    <description>Recent content in Maxwel Coura Oliveira on Maxwel Coura Oliveira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Maxwel Coura Oliveira</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blogging: a new power of R-studio</title>
+      <link>/post/2018-first-post-blogdown/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/post/2018-first-post-blogdown/</guid>
+      <description>&lt;p&gt;Back in 2007, I downloaded R for the first time during a statistical class in my BSc degree. However, I did not see much necessity of R and the interface was not friendly. At that time, I had no idea about the power of &lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; and &lt;a href=&#34;https://www.rstudio.com/&#34; target=&#34;_blank&#34;&gt;R-studio&lt;/a&gt; software. When I joined the University of Nebraska-Lincoln in 2014, I took statistics class that used SAS as standard software. With SAS, I liked using for ANOVA, but I found challenging to conduct quantitative data analysis and plotting regression curves. Also, SAS is not an open source; as a result, there was no much help on the web (blogs, etc).&lt;/p&gt;
+
+&lt;p&gt;My second contact in R, I fitted some herbicide dose-response curves using package &lt;a href=&#34;https://cran.r-project.org/web/packages/drc/drc.pdf&#34; target=&#34;_blank&#34;&gt;drc&lt;/a&gt; in 2014. I started using R and R-studio on a daily basis for fitting herbicide dose-response curves from my Ph.D. project. Also, I use R quite a bit for research data analysis of the weed science program of my former adviser, &lt;a href=&#34;https://agronomy.unl.edu/knezevic&#34; target=&#34;_blank&#34;&gt;Stevan Knezevic&lt;/a&gt;. I was the only graduate student in his weed science program in Nebraska. Therefore, I was responsible for the majority of the data analysis, which I benefit for improving my skills in R. I was using SAS for qualitative data (ANOVA) and R for quantitative (regression). Additionally, R and R-studio have marvelous tools for optimizing time (tidying data) and data visualization. All the figures of my conferences talks, posters, and published papers were done using R-studio.&lt;/p&gt;
+
+&lt;p&gt;When I started my position at the &lt;a href=&#34;https://wisc.edu&#34; target=&#34;_blank&#34;&gt;UW-Madison&lt;/a&gt; early this year, my boss &lt;a href=&#34;https://www.twitter.com/WiscWeeds&#34; target=&#34;_blank&#34;&gt;Rodrigo Werle&lt;/a&gt; told me about his idea to create a website. He plans to create an easy way to communicate results from our weed science program to the agricultural audience. In fact, I told him to find someone else to build his lab website. However, I was aware of &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;blogdown&lt;/a&gt;, which allows anyone to create a site using R-studio and &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;, which is a website generator. I started to work on blogdown as a side project. My idea was to create my blog as a prototype. When I realized, my blog turns our well; I did it: raised_hands:. I think that having my blog will help to propagate my &lt;a href=&#34;https://github.com/maxwelco/open-source-weed-science&#34; target=&#34;_blank&#34;&gt;Open Source Weed Science&lt;/a&gt; project, which will be a repository (or website) for sharing R codes. Also, Academic blog is an excellent tool for marketing our careers as scientists.&lt;/p&gt;
+
+&lt;p&gt;I am not an expert, but I enjoy R programming. I believe that everyone can build their website using blogdown. I am still convincing Rodrigo to create his lab website with blogdown and Hugo.&lt;/p&gt;
+
+&lt;p&gt;If you want to create your website with blogdown, there are many tutorials on GitHub or other blogs. I can recommend two sources, the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;book&lt;/a&gt; and a &lt;a href=&#34;https://alison.rbind.io/post/up-and-running-with-blogdown/&#34; target=&#34;_blank&#34;&gt;post&lt;/a&gt; by Alison Presmanes Hill. Good luck!&lt;/p&gt;
+
+&lt;p&gt;&lt;img border=0 src = &#34;https://bookdown.org/yihui/blogdown/images/logo.png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Source Weed Science</title>
+      <link>/project/2018-weed-science-open-source/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/2018-weed-science-open-source/</guid>
+      <description>&lt;p&gt;The advance of statistical software can make more comfortable for weed science practitioners (professor, technician, and student) to handle research data using programming languages. The idea of the &lt;a href=&#34;//github.com/maxwelco/open-source-weed-science&#34; target=&#34;_blank&#34;&gt;Open Source Weed Science&lt;/a&gt; project is to have a repository in &lt;a href=&#34;//github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; or create a website (working on that idea) with the typical data analysis of weed research.&lt;/p&gt;
+
+&lt;p&gt;I first heard about &lt;a href=&#34;//github.com/maxwelco/open-source-weed-science&#34; target=&#34;_blank&#34;&gt;Open Source Weed Science&lt;/a&gt; project as a graduate student in Nebraska. My colleagues &lt;a href=&#34;https://twitter.com/WiscWeeds&#34; target=&#34;_blank&#34;&gt;Rodrigo Werle&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/agwithstrahinja&#34; target=&#34;_blank&#34;&gt;Strahinja Stepanovic&lt;/a&gt; have the idea before. But somehow it did work well. I will start sharing R codes that I have been using in weed research in my blog and storing the files on GitHub. I plan to open to everyone to collaborate with their codes.&lt;/p&gt;
+
+&lt;p&gt;To learn how to use GitHub click &lt;a href=&#34;https://guides.github.com/activities/hello-world/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inheritance of Mesotrione Resistance in an Amaranthus tuberculatus (var. rudis) Population from Nebraska, USA</title>
+      <link>/publication/2018-02-26-2018-oliveira-frontiers-inheritance/</link>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/2018-02-26-2018-oliveira-frontiers-inheritance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing soybean vigor and productivity using multiple crop canopy sensor readings</title>
+      <link>/publication/2018-02-26-2018-miller-soybeans/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/2018-02-26-2018-miller-soybeans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reversing resistance to tembotrione in an Amaranthus tuberculatus (var. rudis) population from Nebraska, USA with cytochrome P450 inhibitors</title>
+      <link>/publication/2018-02-26-2017-oliveira-pestmanagsci-waterhemp/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/2018-02-26-2017-oliveira-pestmanagsci-waterhemp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weed Control in Soybean with Preemergence- and Postemergence-applied Herbicides</title>
+      <link>/publication/2018-02-26-2017-oliveira-cftm-weedcontrol/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/2018-02-26-2017-oliveira-cftm-weedcontrol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confirmation and Control of HPPD-Inhibiting Herbicide–Resistant Waterhemp (Amaranthus tuberculatus) in Nebraska</title>
+      <link>/publication/2018-02-26-2017-oliveira-weedtechol-waterhemp/</link>
+      <pubDate>Mon, 06 Feb 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/2018-02-26-2017-oliveira-weedtechol-waterhemp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Quality Effect on Corn Growth as Influenced by Weed Species and Nitrogen Rate</title>
+      <link>/publication/2017-butts-lightquality/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/2017-butts-lightquality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of growing Brachiria brizantha on phytoremediation of picloram under different pH environments</title>
+      <link>/publication/2016-braga-ecological-engineering/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/2016-braga-ecological-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of HPPD-Inhibitor Herbicide Resistance in a Waterhemp (Amaranthus tuberculatus var. rudis) Population from Nebraska, USA</title>
+      <link>/talk/2017-phd-oliveira-defenseseminar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2017-phd-oliveira-defenseseminar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
