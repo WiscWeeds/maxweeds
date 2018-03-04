@@ -19,7 +19,7 @@ url_video = "https://unl.app.box.com/s/urjf6govdnroohcjqg741feqgi1p1s0p"
 url_code = ""
 
 
-image = "static/img/defense.PNG"
+image = "static/img/defense.PNG" 
 
 
 +++
