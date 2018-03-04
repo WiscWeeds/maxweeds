@@ -25,7 +25,7 @@ selected = false
 projects = []
 
 
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S0378429017310341/pdfft?md5=30ea5e25b042ca37679e81e8c824a752&pid=1-s2.0-S0378429017310341-main.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
