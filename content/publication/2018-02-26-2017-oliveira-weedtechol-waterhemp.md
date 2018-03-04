@@ -22,7 +22,7 @@ abstract = "Field and greenhouse experiments were conducted in Nebraska to (1) c
 
 selected = false
 
-projects = [""]
+projects = []
 
 
 url_pdf = ""

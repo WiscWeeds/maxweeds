@@ -22,7 +22,7 @@ abstract = "BACKGROUND A population of Amaranthus tuberculatus (var. rudis) was 
 
 selected = false
 
-projects = [""]
+projects = []
 
 
 url_pdf = ""

@@ -12,7 +12,6 @@ authors = ["RR Braga", "JB Santos", "JC Zanuncio", "CS Bibiano", "EA Ferreira","
 
 publication_type = "2"
 
-# Publication name and optional abbreviated version.
 publication = "Ecological Engineering; 2016, 94:102-106"
 publication_short = "Ecological Engineering"
 
@@ -23,7 +22,7 @@ abstract = "Picloram is used in the management of Brachiaria brizantha (Poaceae)
 
 selected = false
 
-projects = [""]
+projects = []
 
 
 url_pdf = ""

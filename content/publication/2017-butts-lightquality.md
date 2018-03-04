@@ -22,7 +22,7 @@ abstract = "Corn-weed competition has often been characterized as the competitio
 
 selected = false
 
-projects = [""]
+projects = []
 
 
 url_pdf = ""

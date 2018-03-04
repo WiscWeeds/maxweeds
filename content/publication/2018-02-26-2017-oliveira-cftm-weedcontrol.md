@@ -21,7 +21,7 @@ abstract = "In the past 20 years, weed control in soybean (Glycine max) was main
 
 selected = false
 
-projects = [""]
+projects = []
 
 
 url_pdf = ""

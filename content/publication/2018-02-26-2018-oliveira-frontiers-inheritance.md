@@ -22,7 +22,7 @@ abstract = "A population of Amaranthus tuberculatus (var. rudis) evolved resista
 
 selected = false
 
-projects = [""]
+projects = []
 
 
 url_pdf = ""
