@@ -2,7 +2,7 @@
 title = "Blogging: a new power of R-studio"
 
 date = 2018-02-28
-lastmod = 2018-02-28
+lastmod = 2018-03-03
 draft = false
 
 tags = ["academic", "blogdown", "GitHub"]
