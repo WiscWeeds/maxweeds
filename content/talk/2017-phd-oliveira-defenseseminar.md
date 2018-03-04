@@ -14,8 +14,8 @@ selected = false
 
 
 url_pdf = ""
-url_slides = ""
-url_video = "https://unl.box.com/s/urjf6govdnroohcjqg741feqgi1p1s0p"
+url_slides = "" 
+url_video = "/files/Talk/MCO_defense.mp4"
 url_code = ""
 
 
