@@ -1,0 +1,2 @@
+# maxweeds
+My academic blog.
