@@ -1,2 +1,2 @@
 # maxweeds
-My academic blog.
+My academic blog https://maxweeds.rbind.io/.
