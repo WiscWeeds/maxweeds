@@ -23,12 +23,12 @@ weight = 5
 
 [[education.courses]]
   course = "MSc in Agronomy (Weed Science)"
-  institution = "Federal University of Jequitinhinha and Mucuri Valleys"
+  institution = "Federal University of Jequitinhonha and Mucuri Valleys"
   year = 2011
 
 [[education.courses]]
   course = "BSc in Agronomy"
-  institution = "Federal University of Jequitinhinha and Mucuri Valleys"
+  institution = "Federal University of Jequitinhonha and Mucuri Valleys"
   year = 2011
  
 +++
