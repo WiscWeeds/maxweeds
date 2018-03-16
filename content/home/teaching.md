@@ -15,7 +15,11 @@ weight = 60
 
 +++
 
+<img src = "/img/teaching.png">  
+
 University of Wisconsin-Madison
 
 -Weeds Contest Preparation Course - Spring 2018
+
+
 
