@@ -9,7 +9,7 @@ tags = ["survey", "weed", "Brazil"]
 summary = "Survey of agronomic and weed management practices in Brazilian agriculture (Post in Portuguese) - O Manejo de Culuras e Plantas Daninhas no Brasil"
 
 [header]
-image = ""
+image = "headers/pulver.jpg" 
 caption = ""
 +++
 ## **Quem somos nós?**
@@ -19,7 +19,7 @@ caption = ""
   
 <img src = "/img/post/Mapa.png">
 
-##  **Por quê estamos fazendo esse questionário?**
+##  **Por que estamos fazendo esse questionário?**
   Com o aumento do número de plantas daninhas resistentes à herbicidas no Brasil, torna-se importante entender a percepção e as estratégias adotadas para o manejo de resistência realizado pelos principais atores da agricultura brasileira (ex.: produtor rural, empresa, pesquisador, etc). O uso de questionários tem sido importante para auxiliar no conhecimento de fatos e pode assitir na tomada de decisões futuras. Com isso, desenvolvemos um questionário com perguntas gerais e específicas sobre o manejo de culturas e plantas daninhas no Brasil. Responder o questionário dura em média 10 minutos e sua participação é de extrema importância. Os resultados serão divulgados com os participantes. 
   
 :heavy_check_mark:*Todas as informações são confidenciais, porém, caso queira receber os resultados por e-mail, você terá a opção de colocar seu contato no questionário.*
