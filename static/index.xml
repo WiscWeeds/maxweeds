@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statics on Maxwel Coura Oliveira</title>
+    <link>/static/</link>
+    <description>Recent content in Statics on Maxwel Coura Oliveira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Maxwel Coura Oliveira</copyright>
+    
+	<atom:link href="/static/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/static/2018-03-03-css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/static/2018-03-03-css/</guid>
+      <description>/************************************************* * A custom theme for Hugo Academic * Set custom_css = [&amp;quot;blue.css&amp;quot;] inconfig.toml. * Then save this file as/static/css/blue.cssrelative to your website root (i.e. not inthemes/academic` directory). * https://github.com/gcushen/hugo-academic **************************************************/
+/* from green to blue / / change all rgb(76,175,80) &amp;ndash;&amp;gt; to rgb(127,140,180) / / change all rgb(0,230,118) &amp;ndash;&amp;gt; to rgb(52,60,86) / / change all rgba(0,230,118,0.6) &amp;ndash;&amp;gt; rgba(127,140,180,0.6) / / change all rgba(0,230,118,1) &amp;ndash;&amp;gt; rgba(52,60,86,1) */
+/************************************************* * Core **************************************************/</description>
+    </item>
+    
+  </channel>
+</rss>
