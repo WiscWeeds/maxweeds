@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/2018-03-28-question%C3%A1rio-a-survey-manejo-de-planta-daninha-no-brasil/</loc>
+      <lastmod>2018-03-28T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/2018-first-post-blogdown/</loc>
       <lastmod>2018-03-03T00:00:00-06:00</lastmod>
     </url>
@@ -132,6 +141,16 @@
     
     <url>
     
+      <loc>/tags/brazil/</loc>
+      <lastmod>2018-03-28T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
@@ -180,7 +199,7 @@
     <url>
     
       <loc>/post/</loc>
-      <lastmod>2018-03-03T00:00:00-06:00</lastmod>
+      <lastmod>2018-03-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -208,8 +227,28 @@
     
     <url>
     
+      <loc>/tags/survey/</loc>
+      <lastmod>2018-03-28T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/weed/</loc>
+      <lastmod>2018-03-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
